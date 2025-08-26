@@ -87,7 +87,7 @@
 					<div class="control-group">
 						<label class="control-label">ID</label>
 						<div class="controls">
-							<textarea name="id" id="getUID" placeholder="Please Scan your Card / Key Chain to display ID" rows="1" cols="1" required></textarea>
+							<textarea name="id" id="getUID" placeholder="Please Scan your Card / Key Chain to display ID" rows="1" cols="1" required readonly></textarea>
 						</div>
 					</div>
 					
